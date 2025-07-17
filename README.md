@@ -5,7 +5,7 @@ I created a web application where users can:
 ✅ **Register an account** on the website  
 ✅ **Purchase a product** that unlocks a **premium section** (exclusive for premium users)  
 
-🔗 **Live App:** [tradingjunior.com](https://tradingjunior.com/)  
+🔗 **Live App:** [tradingjunior.com](https://tradingjunior.com/)  (The website is under reconstruction - hosting is stopped)
 
 ---
 
